@@ -1,0 +1,744 @@
+1/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;1;;0:0;;0:0;;1;;Alta vibración en eje de generador.;;nan;;nan
+1/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;T;;2;;11:34;;11:34;;1;;Descargas atmosféricas;;-;;nan
+1/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;T;;3;;11:34;;11:34;;1;;Descargas atmosféricas;;-;;nan
+1/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;4;;18:13;;18:13;;1;;Descargas atmosféricas;;-;;nan
+1/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;5;;18:36;;19:40;;1;;Aisladores perforados;;-;;nan
+1/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+1/1/2006;;REDESPACHO;;5;;G;;7;;17:0;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+1/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+1/1/2006;;OTROS EVENTOS;;6;;nan;;8;;6:6;;9:9;;2;;El CDC instruye a COBEE efectuar la regulación secundaria de frecuencia, por encontrarse las unidades térmicas con potencias en su mínimo técnico y unidades de C. COR y SIS sin margen de regulación.;;nan;;nan
+1/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:35;;15:29;;2;;El CDC instruye a COBEE y HB, reducir su generación en forma proporcional por alta transferencia en la línea VIN-MAZ230 (seguridad de área en área Central-Oriental-Sur).;;nan;;nan
+1/1/2006;;OTROS EVENTOS;;6;;nan;;8;;16:13;;17:31;;2;;El CDC instruye a COBEE y HB, reducir su generación en forma proporcional por alta transferencia en la línea VIN-MAZ230 (seguridad de área en área Central-Oriental-Sur).;;nan;;nan
+2/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;1;;0:0;;16:29;;1;;Alta vibración en eje de generador.;;nan;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;9;;15:56;;15:56;;3;;Decargas Atmosféricas;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;10;;15:56;;15:56;;3;;Decargas Atmosféricas;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;11;;15:56;;15:56;;3;;Decargas Atmosféricas;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;12;;16:20;;16:20;;3;;No determinada;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;13;;18:17;;20:55;;3;;Alta temperatura (spreat);;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;5;;G;;14;;17:36;;20:8;;3;;Contacto de ramas con la línea;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;5;;G;;15;;17:36;;20:8;;3;;Desconexión lína KAN - QUI024;;-;;nan
+2/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;16;;21:3;;21:3;;3;;Decargas Atmosféricas;;-;;nan
+2/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;1;;G;;17;;16:22;;16:29;;2;;En Sistema en calidad de prueba (11.3 MW), se lleva reserva en BUL01;;nan;;nan
+2/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;7:31;;18:17;;2;;Opera en lugar de GCH09;;nan;;nan
+2/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;20:55;;0:0;;2;;Opera en lugar de GCH09;;nan;;nan
+2/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+2/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+2/1/2006;;OTROS EVENTOS;;6;;nan;;8;;1:12;;4:54;;2;;El CDC instruye a COBEE y HB, reducir su generación en forma proporcional por alta transferencia en la línea VIN-MAZ230 (seguridad de área en área Central-Oriental-Sur).;;nan;;nan
+2/1/2006;;OTROS EVENTOS;;6;;nan;;8;;5:52;;8:37;;2;;El CDC instruye a COBEE efectuar la regulación secundaria de frecuencia, por encontrarse las unidades térmicas con potencias en su mínimo técnico y unidades de C. COR y SIS sin margen de regulación.;;nan;;nan
+3/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;19;;8:0;;16:0;;4;;Inspección general turbina, VE600 MM, generador y cubicales.;;nan;;nan
+3/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;19;;16:0;;16:18;;3;;Extensión de mantenimiento;;nan;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;20;;15:24;;16:15;;1;;Terceros;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;21;;16:6;;16:6;;1;;Descargas atmosféricas;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;22;;16:6;;16:10;;1;;Descargas atmosféricas;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;23;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;24;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;25;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;26;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;27;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;28;;16:6;;16:10;;1;;Desconexión línea LAN - PUH069;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;11;;16:16;;16:16;;1;;Descargas atmosféricas;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;10;;16:16;;16:16;;1;;Descargas atmosféricas;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;9;;16:16;;16:16;;1;;Descargas atmosféricas;;-;;nan
+3/1/2006;;FALLAS DURANTE LA OPERACIÓN;;12;;D;;29;;16:16;;16:17;;1;;Falla línea KAR a ARJ;;-;;nan
+3/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;0:0;;1:15;;2;;Opera en lugar de GCH09;;nan;;nan
+3/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;6:26;;0:0;;2;;Opera en lugar de GCH09;;nan;;nan
+3/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;30;;18:17;;22:34;;2;;Opera en lugar de GCH10;;nan;;nan
+3/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;3:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+3/1/2006;;REDESPACHO;;4;;G;;6;;7:0;;19:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+3/1/2006;;REDESPACHO;;4;;G;;6;;22:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+3/1/2006;;REDESPACHO;;5;;G;;7;;11:49;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+3/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+3/1/2006;;OTROS EVENTOS;;6;;nan;;8;;1:36;;4:25;;2;;El CDC instruye a COBEE y HB, reducir su generación en forma proporcional por alta transferencia en la línea VIN-MAZ230 (seguridad de área en área Central-Oriental-Sur).;;nan;;nan
+4/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;31;;8:0;;15:54;;4;;Inspección general turbina, VE600 MM, generador y cubicales.;;nan;;nan
+4/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;32;;12:6;;17:2;;1;;Parada de emergencia por inyector trabado.;;-;;nan
+4/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;33;;15:35;;15:42;;1;;Error en la operación ;;-;;nan
+4/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;34;;15:35;;15:42;;1;;Error en la operación ;;-;;nan
+4/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;35;;15:35;;15:42;;1;;Error en la operación ;;-;;nan
+4/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;4;;G;;36;;16:58;;17:2;;2;;En Sistema en calidad de prueba (2 MW), la potencia es compensada en CAH01;;nan;;nan
+4/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;0:0;;1:21;;2;;Opera en lugar de GCH09;;nan;;nan
+4/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;6:44;;0:0;;2;;Opera en lugar de GCH09;;nan;;nan
+4/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;30;;14:54;;23:33;;2;;Opera en lugar de GCH10;;nan;;nan
+4/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;15:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+4/1/2006;;REDESPACHO;;4;;G;;6;;17:0;;19:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+4/1/2006;;REDESPACHO;;4;;G;;6;;21:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+4/1/2006;;REDESPACHO;;5;;G;;7;;13:52;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+4/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+4/1/2006;;OTROS EVENTOS;;6;;nan;;8;;2:37;;4:45;;2;;El CDC instruye a COBEE y HB, reducir su generación en forma proporcional por alta transferencia en la línea VIN-MAZ230 (seguridad de área en área Central-Oriental-Sur).;;nan;;nan
+4/1/2006;;OTROS EVENTOS;;6;;nan;;8;;10:41;;12:29;;2;;El CDC no cuenta con señales de RTU´s de subestaciones TCH, PIC, CHJ, YAN, CHS, CRN y GUN de manera intermitente, asimismo no se cuenta con comunicación vía teléfono directo con Central CHJ.;;nan;;nan
+4/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:6;;11:52;;2;;TDE realiza trabajos de mantenimiento programado en el interruptor B423 de S/E CAT, de acuerdo a Solicitud de Operaciones Nº 17/2005-2006.;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;37;;8:0;;15:41;;4;;Inspección general turbina, VE600 MM, generador y cubicales.;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;0:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;0:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;0:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;0:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;16:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;16:0;;0:0;;1;;Restricciones en el suministro de gas;;nan;;nan
+5/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;44;;1:4;;1:58;;1;;Terceros;;-;;nan
+5/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;45;;16:27;;16:57;;1;;Terceros;;-;;nan
+5/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;0:0;;1:28;;2;;Opera en lugar de GCH09;;nan;;nan
+5/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;46;;10:41;;10:46;;2;;Opera en calidad de prueba (42 MW), la reserva es compensada en la unidad BUL02;;nan;;nan
+5/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;10:47;;10:52;;2;;Opera en calidad de prueba (42 MW), la reserva es compensada en la unidad BUL01;;nan;;nan
+5/1/2006;;REDESPACHO;;5;;G;;7;;6:16;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+5/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+5/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:58;;9:18;;2;;Desconexión de la línea Telamayu - Tatasi por apertura del interruptor B491 en S/E TEL. A Hrs. 09:18, en coordinación con TDE y COSEAL el CDC instruye a la TDE el cierre remoto del interruptor B491 en S/E TEL.;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;47;;8:0;;14:18;;4;;Inspección general turbina, VE600 MM, generador y cubicales.;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;48;;0:6;;2:7;;4;;Limpieza de carbones y filtros.;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;0:0;;1:57;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;0:0;;1:57;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;16:0;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;16:0;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;8:7;;14:30;;1;;Inspección del gobernador;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;5;;G;;15;;9:21;;10:58;;1;;Mantenimiento de línea KAN-QUI024;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;5;;T;;50;;9:21;;10:58;;1;;Corte de ramas bajo la línea;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;16:41;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;16:41;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;16:41;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;16:41;;0:0;;1;;Restricción en el suministro de gas;;nan;;nan
+6/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;51;;19:21;;0:0;;1;;Baja presión de aceite en turbina;;-;;nan
+6/1/2006;;FALLAS DURANTE LA OPERACIÓN;;1;;G;;1;;19:39;;21:41;;1;;Disparo por alta vibración en turbina;;-;;nan
+6/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;46;;19:34;;20:4;;2;;Opera en carga base por falla en el arranque de KAR;;nan;;nan
+6/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;19:34;;19:39;;2;;Opera en carga base por falla en el arranque de KAR;;nan;;nan
+6/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;52;;19:39;;19:52;;2;;Opera en carga base por disparo de BUL02;;nan;;nan
+6/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;53;;19:39;;19:49;;2;;Opera en carga base por disparo de BUL02;;nan;;nan
+6/1/2006;;REDESPACHO;;4;;G;;6;;0:30;;0:0;;2;;Mayor generación a la prevista por concentración de reserva;;nan;;nan
+6/1/2006;;REDESPACHO;;5;;G;;7;;14:24;;18:0;;2;;Mayor disponibilidad de agua a la prevista;;nan;;nan
+6/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;54;;6:30;;16:44;;1;;Mantenimiento preventivo, lavado de compresor.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;55;;0:4;;2:40;;4;;Limpieza de carbones y filtros.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;56;;0:0;;0:0;;4;;Mantenimiento de equipos auxiliares.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;9:12;;11:0;;4;;Limpieza del sistema de enfriamiento.;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;11:0;;11:35;;1;;Extensión de mantenimiento;;nan;;nan
+7/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;51;;0:0;;12:45;;1;;Baja presión de aceite en turbina;;nan;;nan
+7/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;58;;0:35;;0:35;;1;;Descargas atmosféricas;;-;;nan
+7/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;59;;0:35;;0:35;;1;;Descargas atmosféricas;;-;;nan
+7/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;60;;15:18;;16:18;;1;;Terceros;;-;;nan
+7/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;61;;12:14;;12:51;;2;;En Sistema en calidad de prueba (5.7 MW), se lleva reserva en GCH08;;nan;;nan
+7/1/2006;;REDESPACHO;;4;;G;;6;;0:30;;0:0;;2;;Mayor generación a la prevista por concentración de reserva;;nan;;nan
+7/1/2006;;REDESPACHO;;5;;G;;7;;13:13;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+7/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+7/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:45;;9:2;;2;;Apertura del interruptor B491 en S/E TEL, normalizan en coordinación con el CDC y COSEAL;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;56;;0:0;;22:45;;4;;Mantenimiento de equipos auxiliares.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;19;;6:48;;8:30;;4;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;31;;6:48;;8:30;;4;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;37;;6:48;;8:30;;4;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;47;;6:48;;8:30;;4;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;62;;7:55;;15:5;;1;;Ajuste de un perno en la camisa de la turbina.;;nan;;nan
+8/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;6:22;;0:0;;1;;Problemas en los descansos.;;nan;;nan
+8/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;64;;12:8;;12:12;;1;;Cable suelto, en tramo desenergizado;;-;;nan
+8/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;64;;12:24;;13:54;;1;;Cable suelto, en tramo desenergizado;;-;;nan
+8/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;7;;T;;65;;6:48;;8:26;;2;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;7;;T;;66;;6:48;;8:26;;2;;Pruebas de simultaneidad de cierre del seccionador 115 KV de la unidad Nº 2.;;nan;;nan
+8/1/2006;;REDESPACHO;;4;;G;;6;;0:30;;18:0;;2;;Mayor generación a la prevista por concentración de reserva;;nan;;nan
+8/1/2006;;REDESPACHO;;4;;G;;6;;22:0;;0:0;;2;;Mayor generación a la prevista por concentración de reserva;;nan;;nan
+8/1/2006;;REDESPACHO;;5;;G;;7;;13:23;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+8/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;67;;0:13;;2:46;;4;;Limpieza de carbones y filtros.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;68;;8:0;;15:30;;4;;Inspección general de turbina, VE600 mm, generador y cubicales.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;0:0;;0:0;;1;;Problemas en los descansos.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;0:0;;0:0;;1;;Restricción en el suministro de gas.;;nan;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;69;;5:4;;5:21;;1;;Rotura y cambio de correa de transmisión del gobernador;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;69;;5:54;;5:56;;1;;Rotura y cambio de correa de transmisión del gobernador;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;70;;8:10;;8:13;;1;;Aislador roto;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;71;;13:59;;14:9;;1;;Transformador de distribución.;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;55;;15:1;;15:41;;1;;Disparo por falla en el sistema de control  DC ;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;67;;15:1;;15:55;;1;;Disparo por falla en el sistema de control  DC ;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;72;;17:2;;17:5;;1;;Terceros;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;73;;17:2;;17:5;;1;;No determinada;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;55;;17:8;;17:33;;1;;Disparo por falla en el sistema de control  DC ;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;55;;22:24;;0:0;;1;;Parada para reparación del sistema de control DC;;-;;nan
+9/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;67;;22:52;;0:0;;1;;Parada para reparación del sistema de control DC;;-;;nan
+9/1/2006;;REDESPACHO;;4;;G;;6;;0:30;;10:0;;2;;Mayor generación por concentración de reserva;;nan;;nan
+9/1/2006;;REDESPACHO;;4;;G;;6;;13:0;;15:0;;2;;Mayor generación por concentración de reserva;;nan;;nan
+9/1/2006;;REDESPACHO;;4;;G;;6;;17:0;;19:0;;2;;Mayor generación por concentración de reserva;;nan;;nan
+9/1/2006;;REDESPACHO;;5;;G;;7;;12:25;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+9/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;74;;8:0;;15:23;;4;;Inspección general de turbina, VE600 mm, generador y cubicales.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;0:0;;0:0;;1;;Problemas en los descansos.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;42;;0:0;;15:14;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;43;;0:0;;15:14;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;0:0;;15:25;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;0:0;;15:25;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;0:0;;15:25;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;0:0;;15:25;;1;;Restricción en el suministro de gas.;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;55;;0:0;;3:21;;1;;Instalación del sistema de control DC;;nan;;nan
+10/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;67;;0:0;;3:39;;1;;Instalación del sistema de control DC;;nan;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;75;;2:0;;2:0;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;76;;2:0;;2:0;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;77;;8:13;;8:15;;1;;Retrazo en la sincronización;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;77;;11:12;;11:36;;1;;Disparo por falla en el sistema de enfriamiento de agua;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;12;;D;;78;;15:4;;16:15;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;79;;16:48;;17:11;;1;;Fuertes vientos;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;80;;17:2;;17:52;;1;;Fuertes vientos;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;81;;18:34;;18:41;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;82;;18:34;;18:41;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;16;;D;;83;;18:34;;18:44;;1;;Desconexión de la línea CAT a POT;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;2;;20:37;;20:37;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;3;;20:37;;20:37;;1;;Descargas atmosféricas.;;-;;nan
+10/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;84;;3:18;;3:21;;2;;Opera en calidad de prueba (6 MW), la reserva es compensada en unidades de Sistema Zongo.;;nan;;nan
+10/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;85;;3:36;;3:39;;2;;Opera en calidad de prueba (6 MW), la reserva es compensada en unidades de Sistema Zongo.;;nan;;nan
+10/1/2006;;REDESPACHO;;4;;G;;6;;4:0;;19:0;;2;;Mayor generación por concentración de reserva;;nan;;nan
+10/1/2006;;REDESPACHO;;4;;G;;6;;22:0;;0:0;;2;;Mayor generación por concentración de reserva;;nan;;nan
+10/1/2006;;REDESPACHO;;5;;G;;7;;15:4;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+10/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+11/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;0:0;;0:0;;1;;Problemas en los descansos.;;nan;;nan
+11/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;86;;0:3;;2:30;;4;;Limpieza de carbones y filtros.;;nan;;nan
+11/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;87;;8:0;;14:19;;4;;Inspección general de turbina, VE600 mm, generador y cubicales.;;nan;;nan
+11/1/2006;;REEMPLAZOS Y OTROS;;10;;G;;88;;14:17;;14:19;;2;;Opera en calidad de prueba (4 MW), esta potencia es compensada en unidades de central SIS.;;nan;;nan
+11/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;9:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+11/1/2006;;REDESPACHO;;4;;G;;6;;13:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+11/1/2006;;REDESPACHO;;4;;G;;6;;22:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+11/1/2006;;REDESPACHO;;5;;G;;7;;13:12;;18:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+11/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+11/1/2006;;REDESPACHO;;14;;G;;89;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+11/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+11/1/2006;;OTROS EVENTOS;;6;;nan;;8;;16:12;;16:27;;2;;El CDC no cuenta con información del Sistema SCADA de ISABOL de las S/Es SAN, SUC y PUN por falla en su sistema de comunicaciones.;;nan;;nan
+11/1/2006;;OTROS EVENTOS;;6;;nan;;8;;19:7;;20:15;;2;;ELFEO en coordinación con el CDC abre el Int. B236 en S/E Sud, desenergizando el transformador S/E TRSUD06903.;;nan;;nan
+12/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;0:0;;1:52;;1;;Problemas en los descansos.;;nan;;nan
+12/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;90;;0:6;;2:41;;4;;Limpieza de carbones y filtros.;;nan;;nan
+12/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;8:0;;15:35;;4;;Inspección general de turbina, VE600 mm, generador y cubicales.;;nan;;nan
+12/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;92;;1:4;;1:52;;2;;Opera en calidad de prueba, la reserva es compensada en las unidades del valle de Miguillas.;;nan;;nan
+12/1/2006;;REDESPACHO;;4;;G;;6;;10:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+12/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;1:7;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+12/1/2006;;REDESPACHO;;5;;G;;7;;12:0;;17:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+12/1/2006;;REDESPACHO;;14;;G;;89;;0:0;;7:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+12/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+12/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:57;;12:3;;2;;ELFEC realiza trabajos programados en el Int. 101  en S/E Cental, según nota G.E. 43.;;nan;;nan
+12/1/2006;;OTROS EVENTOS;;6;;nan;;8;;16:53;;17:21;;2;;ELFEO en coordinación con el CDC abre el Int. B236 en S/E Sud, desenergizabdo el transformador TRSUD06903. ;;nan;;nan
+13/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;93;;0:4;;2:46;;4;;Limpieza de carbones y filtros;;nan;;nan
+13/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;94;;8:0;;11:48;;4;;Inspección general de turbina, VE600 mm, generador y cubicales;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;95;;13:15;;13:15;;1;;No determinada;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;96;;16:20;;16:21;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;97;;16:20;;16:21;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;98;;16:20;;16:32;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;99;;16:20;;16:31;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;100;;16:20;;16:31;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;101;;16:20;;16:31;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;102;;16:20;;16:31;;1;;Descargas atmosféricas;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;5;;G;;15;;17:10;;17:12;;1;;Contacto con rama ;;nan;;nan
+13/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;103;;17:10;;17:10;;1;;No determinada;;nan;;nan
+13/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;46;;7:38;;7:41;;2;;Con el 10% de reserva por incremento de la demanda en el SIN.;;nan;;nan
+13/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;7:38;;7:41;;2;;Con el 10% de reserva por incremento de la demanda en el SIN.;;nan;;nan
+13/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;18:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+13/1/2006;;REDESPACHO;;5;;G;;7;;13:0;;17:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+13/1/2006;;REDESPACHO;;5;;G;;7;;22:0;;23:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+13/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+13/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;55;;8:10;;12:0;;4;;Reemplazo banco de baterías.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;67;;8:24;;12:0;;4;;Reemplazo banco de baterías.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;12:0;;0:0;;1;;Restricciones en el suministro de gas.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;12:0;;0:0;;1;;Restricciones en el suministro de gas.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;12:0;;0:0;;1;;Restricciones en el suministro de gas.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;12:0;;0:0;;1;;Restricciones en el suministro de gas.;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;55;;12:0;;12:44;;1;;Extension de mantenimiento;;nan;;nan
+14/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;67;;12:0;;13:41;;1;;Extension de mantenimiento;;nan;;nan
+14/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;104;;7:46;;8:12;;1;;Terceros;;nan;;nan
+14/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;85;;12:41;;12:44;;2;;Opera en calidad de prueba con 3.0 MW, la reserva es llevada en C.CHU.;;nan;;nan
+14/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;84;;13:36;;13:41;;2;;Opera en calidad de prueba con 3.0 MW, la reserva es llevada en C.CHU.;;nan;;nan
+14/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;18:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+14/1/2006;;REDESPACHO;;5;;G;;7;;9:21;;17:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+14/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+14/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+14/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+15/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;13;;8:0;;14:33;;4;;Pruebas de flujo critico en medidores de gas;;nan;;nan
+15/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;18;;8:0;;11:33;;4;;Pruebas de flujo critico en medidores de gas;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;57;;1:1;;0:0;;1;;Parada de emergencia, llegada de turbión;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;77;;2:8;;0:0;;1;;Falla en el sistema de refrigeración;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;49;;3:38;;0:0;;1;;Falla en el sistema de refrigeración;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;105;;6:7;;6:23;;1;;Transferencia de carga por trabajos programados;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;105;;9:35;;9:42;;1;;Transferencia de carga por trabajos programados;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;14;;G;;106;;10:55;;0:0;;1;;Inundación de la central;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;13;;18:8;;18:28;;1;;Falla en el arranque;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;107;;19:16;;19:31;;1;;Retraso en el arranque;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;108;;19:47;;0:0;;1;;Falla sistema de control válvula esférica Nº 1;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:44;;19:54;;1;;Retraso en el arranque.;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;17;;T;;109;;21:46;;21:53;;1;;Descargas atmosféricas;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;110;;21:46;;21:50;;1;;Descargas atmosféricas;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;23;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;24;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;25;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;26;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;27;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;28;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;111;;21:46;;21:50;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+15/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;15;;D;;112;;7:0;;7:6;;2;;Transferencia de carga al alimentador Q5, por trabajos programados de COBOCE.;;nan;;nan
+15/1/2006;;INSTALACIONES NO DISPONIBLES POR OTRAS CAUSAS;;15;;D;;112;;16:25;;16:30;;2;;Reposición de la carga del alimentador Q5, por trabajos programados de COBOCE.;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;113;;6:17;;7:7;;2;;Opera en modo isla por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;114;;6:20;;7:1;;2;;Opera en modo isla por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;115;;6:22;;7:4;;2;;Opera en modo isla por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;116;;6:23;;7:5;;2;;Opera en modo isla por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;117;;6:25;;7:9;;2;;Opera en modo isla por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;118;;6:30;;6:59;;2;;Opera con el AVR en manual, por oscilación de potencia en el SIN;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;119;;19:31;;19:35;;2;;Opera en carga base por incremento de la demanda en el SIN y demora en el arranque de CAR01;;nan;;nan
+15/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;120;;19:31;;19:34;;2;;Opera en carga base por incremento de la demanda en el SIN y demora en el arranque de CAR01;;nan;;nan
+15/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+15/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:28;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+15/1/2006;;REDESPACHO;;5;;G;;7;;10:4;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;12:38;;22:38;;2;;No se tiene comunicación por ninguno de los medios disponibles con HB ni tampoco las señales de RTUs.;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;6:16;;6:19;;2;;Se registra oscilación de potencia en el Sistema en un rango de 50 Hz a 50.14 Hz, amortiguándose momentáneamente con el paso de las unidades de CHU01 y CHU02 a modo de operación isla. ;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;6:20;;6:21;;2;;Se registra oscilación de potencia en el Sistema en un rango de 49.96 Hz a 50.18 Hz, amortiguándose momentáneamente con el paso de las unidades HAR01, HAR02 a modo de operación isla. ;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;6:22;;6:32;;2;;Se registra oscilación de potencia en el Sistema en un rango de 49.84 Hz a 50.16 Hz. El CDC instruye a COBEE pasar a modo de operación isla las unidades CAH01, 02; HUA01, 02; CUT05 y pasar el regulador de;;nan;;nan
+15/1/2006;;OTROS EVENTOS;;6;;nan;;8;;7:15;;16:22;;2;;COBOCE reduce toda su carga y procede a la apertura del seccionador D1 (tap COBOCE) para realizar trabajos programados de acuerdo a nota del 06/01/2006 JTEL-006/06.;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Reparación, daños en C. Chojlla;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Reparación, daños en C. Chojlla;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Reparación, daños en C. Chojlla;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Reparación, daños en C. Chojlla;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;121;;0:6;;2:12;;4;;Mantenimiento preventivo;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;7:50;;0:0;;4;;Mantenimiento anual;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;7:50;;0:0;;4;;Mantenimiento anual;;nan;;nan
+16/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;7:50;;0:0;;4;;Mantenimiento anual;;nan;;nan
+16/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;108;;0:0;;17:2;;1;;Falla sistema de control válvula esférica Nº 1;;nan;;nan
+16/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;8:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+16/1/2006;;REDESPACHO;;4;;G;;6;;11:0;;18:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+16/1/2006;;REDESPACHO;;4;;G;;6;;23:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+16/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;1:23;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+16/1/2006;;REDESPACHO;;5;;G;;7;;9:36;;17:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+16/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+16/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+16/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+16/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;12:4;;2;;El CDC no cuenta con señales en el SCADA de HB.;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual;;nan;;nan
+17/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual;;nan;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;51;;9:55;;0:0;;1;;Relé de sobrecorriente del generador.;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:9;;20:0;;1;;Falla en el interruptor de campo.;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;122;;13:35;;14:1;;1;;Fuertes Vientos.;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;123;;13:36;;14:33;;1;;Terceros.;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;124;;16:8;;17:20;;1;;Línea rota ( Se repone la carga en forma parcial ).;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;124;;19:40;;20:0;;1;;Reposición total de carga.;;-;;nan
+17/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;125;;22:56;;23:34;;1;;Terceros.;;-;;nan
+17/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;120;;19:18;;19:30;;2;;Opera en carga base por incremento de la demanda y falla en el arranque de VHE04.;;nan;;nan
+17/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+17/1/2006;;REDESPACHO;;5;;G;;7;;9:29;;16:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+17/1/2006;;REDESPACHO;;4;;G;;6;;21:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+17/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+17/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+18/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;51;;0:0;;0:0;;1;;Activación de protección de sobrecorriente de generador.;;nan;;nan
+18/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;56;;9:10;;15:10;;1;;Disparo por falla en IGV.;;-;;nan
+18/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;126;;19:12;;21:43;;1;;Falla en solenoide de IGV.;;-;;nan
+18/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:15;;19:18;;1;;Retraso en el arranque.;;-;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;127;;9:11;;9:22;;2;;Operan en carga base por requerimiento del Sistema.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;128;;9:11;;9:29;;2;;Opera en carga base por requerimiento del Sistema.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;129;;9:11;;9:30;;2;;Operan en carga base por requerimiento del Sistema.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;6;;9:11;;9:20;;2;;Hace uso de la reserva en giro por requerimiento del Sistema.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;130;;9:13;;9:30;;2;;Opera en carga base por requerimiento del Sistema.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;61;;21:24;;22:40;;2;;Opera en calidad de prueba (8.5 MW). La reserva es compensada en unidades GCH08 y GCH10 en C. GCH.;;nan;;nan
+18/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;61;;22:40;;23:9;;2;;Opera en calidad de prueba (5 MW). La reserva es compensada en unidad GCH08 en C. GCH.;;nan;;nan
+18/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+18/1/2006;;REDESPACHO;;5;;G;;7;;10:35;;16:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+18/1/2006;;REDESPACHO;;11;;G;;131;;7:30;;0:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+18/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+18/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+18/1/2006;;OTROS EVENTOS;;6;;nan;;8;;19:17;;19:26;;2;;RTU´s de S/E KEN inoperables.;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+19/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;51;;0:0;;9:57;;1;;Activación de protección de sobrecorriente de generador.;;nan;;nan
+19/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;132;;11:52;;11:52;;1;;No determinada;;-;;nan
+19/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;62;;12:53;;18:7;;1;;Calentamiento de descansos;;-;;nan
+19/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;40;;19:14;;19:16;;1;;Retraso en el arranque;;-;;nan
+19/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:14;;19:29;;1;;Retraso en el arranque;;-;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;133;;9:38;;9:57;;2;;Opera  en calidad de prueba (12.3 MW), la potencia es compensada en GCH09.;;nan;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;129;;19:12;;19:15;;2;;Operan en carga base por incremento de la demanda en el SIN.;;nan;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;134;;19:12;;19:15;;2;;Operan en carga base por incremento de la demanda en el SIN.;;nan;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;5;;G;;135;;10:46;;12:11;;2;;En Sistema por pruebas de medición de parámetros.;;nan;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;5;;G;;135;;12:48;;12:52;;2;;En Sistema por pruebas de medición de parámetros.;;nan;;nan
+19/1/2006;;REEMPLAZOS Y OTROS;;5;;G;;135;;13:7;;13:16;;2;;En Sistema por pruebas de medición de parámetros.;;nan;;nan
+19/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+19/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;0:35;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+19/1/2006;;REDESPACHO;;11;;G;;131;;1:0;;3:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+19/1/2006;;REDESPACHO;;5;;G;;7;;13:50;;16:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+19/1/2006;;REDESPACHO;;11;;G;;131;;9:0;;0:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;10:46;;12:11;;2;;KAN01 en sistema por medición y validación de modelos de reguladores de tensión y frecuencia.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:20;;11:29;;2;;Ante solicitud de SYNERGIA, el CDC instruye a CORANI variar la frecuencia entre 49.9 Hz y 50 Hz.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;12:48;;12:52;;2;;KAN01 en sistema por medición y validación de modelos de reguladores de tensión y frecuencia. Disparo de la unidad con 2 MW.;;nan;;nan
+19/1/2006;;OTROS EVENTOS;;6;;nan;;8;;13:7;;13:16;;2;;KAN01 en sistema por medición y validación de modelos de reguladores de tensión y frecuencia.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+20/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;63;;8:1;;11:1;;4;;Inspección eje auxiliar.;;nan;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;136;;8:10;;8:19;;1;;Terceros.;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;137;;14:51;;14:55;;1;;No determinadas.;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;138;;16:51;;17:16;;1;;Rama sobre línea de MT.;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:13;;19:15;;1;;Retraso en el arranque.;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;38;;21:38;;21:52;;1;;Excesiva entrada de gas.;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;139;;21:56;;0:0;;1;;Condiciones climáticas (Falla mando interruptor A381).;;-;;nan
+20/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;140;;21:56;;21:56;;1;;Condiciones climáticas.;;-;;nan
+20/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;30;;11:6;;11:55;;2;;Opera en carga base por pruebas en medidor de gas, la reserva es compensada en GCH10.;;nan;;nan
+20/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;11:55;;12:47;;2;;Opera en carga base por pruebas en medidor de gas, la reserva es compensada en GCH09.;;nan;;nan
+20/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;129;;20:3;;20:26;;2;;Operan en carga base por mayor demanda a la estimada.;;nan;;nan
+20/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;134;;20:5;;20:23;;2;;Operan en carga base por mayor demanda a la estimada.;;nan;;nan
+20/1/2006;;REEMPLAZOS Y OTROS;;10;;G;;88;;10:9;;16:44;;2;;En Sistema por pruebas de medición de parámetros.;;nan;;nan
+20/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+20/1/2006;;REDESPACHO;;5;;G;;7;;1:0;;4:55;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+20/1/2006;;REDESPACHO;;11;;G;;131;;0:30;;1:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+20/1/2006;;REDESPACHO;;5;;G;;7;;13:4;;16:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+20/1/2006;;REDESPACHO;;11;;G;;131;;10:0;;0:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;10:9;;16:44;;2;;SIS05 en Sistema para realizar medición de validación de modelos de reguladores de tensión y frecuencia. ;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:6;;11:55;;2;;A solicitud de EGSA, GCH09 en carga base para realizar pruebas en medidor de gas de la unidad (61.8 MW). La potencia es compensada en GCH10;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:55;;12:47;;2;;A solicitud de EGSA, GCH10 en carga base para realizar pruebas en medidor de gas de la unidad (61.7 MW). La potencia es compensada en GCH09;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;13:4;;13:17;;2;;El CDC instruye a CORANI variar la frecuencia entre 49.9 Hz y 50.1 Hz por pruebas en SIS05. ;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:5;;14:30;;2;;El CDC instruye a CORANI variar la frecuencia entre 49.9 Hz y 50.1 Hz por pruebas en SIS05. ;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:51;;14:55;;2;;Apertura del Int. 1BL12 línea GCH-VIR069 dejando sin suministro de energía a S/Es Viru-Viru, Warnes, Montero y Buena Vista con un total de aproximadamente 30.0 MW; la frecuencia en el Sistema se incrementa en forma ;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;15:3;;15:11;;2;;Apertura del interruptor B491 de la línea Telamayu - Tatasi a solicitud de COSEAL para cambio de elemento fusible.;;nan;;nan
+20/1/2006;;OTROS EVENTOS;;6;;nan;;8;;23:8;;0:0;;2;;El CDC no cuenta con señales de subestación PIC, por pérdida de servicio local en dicha subestación.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;141;;0:8;;2:52;;4;;Mantenimiento preventivo.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;139;;0:0;;2:3;;1;;Falla en mando de interruptor A381 en S/E PIC.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;142;;10:2;;11:20;;4;;Cambio de dos cadenas de aisladores.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;143;;10:2;;11:20;;4;;Cambio de dos cadenas de aisladores.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;144;;10:2;;11:20;;4;;Cambio de dos cadenas de aisladores.;;nan;;nan
+21/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;145;;10:2;;11:20;;4;;Cambio de dos cadenas de aisladores.;;nan;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;146;;17:31;;17:39;;1;;Falla de operación de interruptor Alim. Villa Pabón;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;147;;17:31;;17:40;;1;;Falla de operación de interruptor Alim. Villa Pabón;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;148;;17:31;;17:40;;1;;No determinada;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;149;;17:31;;17:40;;1;;Falla de operación de interruptor Alim. Villa Pabón;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;150;;17:31;;17:40;;1;;Falla de operación de interruptor Alim. Villa Pabón;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;151;;17:31;;17:35;;1;;Falla de operación de interruptor Alim. Villa Pabón;;-;;nan
+21/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;126;;19:45;;21:43;;1;;Sistema de control, lógica de arranque.;;-;;nan
+21/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;141;;2:50;;2:52;;2;;Opera en calidad de prueba (1 MW), la reserva es compensada en unidades de C. CHU.;;nan;;nan
+21/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;9:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+21/1/2006;;REDESPACHO;;5;;G;;7;;1:0;;2:8;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+21/1/2006;;REDESPACHO;;11;;G;;131;;0:30;;18:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+21/1/2006;;REDESPACHO;;4;;G;;6;;11:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+21/1/2006;;REDESPACHO;;5;;G;;7;;10:10;;15:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+21/1/2006;;REDESPACHO;;4;;G;;6;;23:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+21/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+21/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+21/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;2:4;;2;;HB continúa con la revisión del mando del interruptor A381 en S/E PIC.;;nan;;nan
+21/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;2:4;;2;;El CDC no cuenta con señales de subestación PIC, por pérdida de servicio local en dicha subestación.;;nan;;nan
+21/1/2006;;OTROS EVENTOS;;6;;nan;;8;;10:2;;11:20;;2;;TDE realiza trabajos de mantenimiento correctivo en la línea KAR-ARJ069 de acuerdo a Solicitud de Desconexión Nº 18/2005-2006.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+22/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+22/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;62;;16:38;;19:7;;1;;Problemas en canal de aducción.;;-;;nan
+22/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;152;;18:0;;19:15;;1;;Descarga atmosférica.;;-;;nan
+22/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;3:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+22/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;3:34;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+22/1/2006;;REDESPACHO;;4;;G;;6;;6:0;;9:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+22/1/2006;;REDESPACHO;;5;;G;;7;;10:15;;15:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+22/1/2006;;REDESPACHO;;4;;G;;6;;13:0;;17:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+22/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+22/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;153;;0:10;;2:36;;4;;Mantenimiento preventivo.;;nan;;nan
+23/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;54;;6:33;;17:47;;4;;Inspección boroscópica.;;nan;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;62;;3:11;;0:0;;1;;Fuga de agua en el laberinto;;-;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;154;;11:30;;11:56;;1;;Terceros.;;-;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;81;;16:7;;16:7;;1;;Descargas atmosféricas.;;-;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;82;;16:7;;16:7;;1;;Descargas atmosféricas.;;-;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;83;;16:7;;16:10;;1;;Desconexión línea Catavi - Potosí.;;-;;nan
+23/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:21;;19:25;;1;;Retraso en el arranque.;;-;;nan
+23/1/2006;;OPERACION CON POTENCIA LIMITADA;;11;;G;;155;;2:50;;3:11;;2;;Fuga de agua en el laberinto;;nan;;1.3
+23/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;8:41;;8:53;;2;;Opera en carga base por incremento de la demada en el SIN.;;nan;;nan
+23/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;8:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+23/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;5:55;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+23/1/2006;;REDESPACHO;;4;;G;;6;;11:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+23/1/2006;;REDESPACHO;;5;;G;;7;;11:31;;15:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+23/1/2006;;REDESPACHO;;4;;G;;6;;23:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+23/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+23/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+23/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:25;;17:30;;2;;TDE realiza la inspección, verificación y medición de sistema de protecciones en barra de 230 KV.;;nan;;nan
+23/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:24;;17:26;;2;;TDE realiza trabajos de mantenimiento programado en sistema de protecciones en S/E CAT.;;nan;;nan
+23/1/2006;;OTROS EVENTOS;;6;;nan;;8;;17:48;;17:58;;2;;Desconexión de la línea S/E Sud - Corque por apertura por protección del interruptor B237 en S/E SUD. ELFEO en coordinación con el CDC procede al cierre del interruptor B237, energizando la línea en vacío.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;24;;0:0;;15:18;;4;;Mantenimiento anual.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;25;;0:0;;15:27;;4;;Mantenimiento anual.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;156;;0:6;;3:0;;4;;Mantenimiento preventivo.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;54;;6:35;;17:21;;4;;Inspección boroscópica.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;156;;3:0;;3:57;;1;;Extensión de mantenimiento.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;157;;8:0;;0:0;;4;;Mantenimiento de auxiliares y filtros.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;2;;D;;158;;10:8;;14:0;;4;;Mantenimiento programado.;;nan;;nan
+24/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;62;;0:0;;0:5;;1;;Fuga de agua en el laberinto.;;nan;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;159;;11:0;;12:1;;1;;Pararrayo quemado.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;160;;14:4;;14:48;;1;;Terceros.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;3;;14:19;;14:19;;1;;Condiciones climáticas.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;2;;D;;2;;14:19;;14:19;;1;;Condiciones climáticas.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;161;;16:59;;17:35;;1;;Apertura accidental.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;38;;17:30;;17:46;;1;;Señal errónea de detector de llama.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;24;;17:58;;18:6;;1;;Descargas atmosféricas.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;25;;17:58;;18:6;;1;;Descargas atmosféricas.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;26;;17:58;;18:6;;1;;Descargas atmosféricas.;;-;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;162;;22:0;;22:6;;1;;Descargas atmosféricas.;;Si;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;163;;22:0;;22:6;;1;;Descargas atmosféricas.;;Si;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;164;;22:0;;22:6;;1;;Descargas atmosféricas.;;Si;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;165;;22:0;;22:6;;1;;Descargas atmosféricas.;;nan;;nan
+24/1/2006;;FALLAS DURANTE LA OPERACIÓN;;5;;G;;15;;21:23;;21:44;;1;;Descargas atmosféricas.;;nan;;nan
+24/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;8:34;;8:42;;2;;Opera en carga base por incremento de la demanda en el SIN.;;nan;;nan
+24/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;134;;8:34;;8:42;;2;;Operan en carga base por incremento de la demanda en el SIN.;;nan;;nan
+24/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;166;;17:5;;17:36;;2;;Operan en carga base por regulación de voltaje en Sistema Oriental debido a desconexión de la línea CAR-GCH230.;;nan;;nan
+24/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+24/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;3:10;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+24/1/2006;;REDESPACHO;;5;;G;;7;;12:28;;15:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:3;;17:18;;2;;TDE realiza trabajos programados en sistema de protecciones de S/E GCH.;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:8;;14:0;;2;;ELFEO realiza trabajos de mantenimiento programado en equipos de S/E Avicaya de acuerdo a Solicitud de Operaciones Nº 09/06.;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:19;;14:19;;2;;Desconexión de la línea Catavi-Avicaya por apertura por protección del interruptor B423 en S/E CAT con reconexión automática del mismo, quedando momentáneamente sin energía las subestaciones Bolivar ;;nan;;nan
+24/1/2006;;OTROS EVENTOS;;6;;nan;;8;;16:59;;17:35;;2;;Desconexión de la línea Carrasco-Guaracachi por apertura accidental por personal de TDE del interruptor Z162 en S/E CAR. A Hrs. 17:04 el CDC instruye el arranque de la unidad GCH07 por regulación de voltaje ;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de planta;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;157;;0:0;;0:0;;4;;Mantenimiento de auxiliares y filtros;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;167;;0:3;;2:40;;4;;Mantenimiento preventivo;;nan;;nan
+25/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual;;nan;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;153;;0:14;;6:50;;1;;Cierre de válvula de cabecera por riada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;156;;0:12;;12:58;;1;;Cierre de válvula de cabecera por riada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;48;;0:39;;15:23;;1;;Sistema de refrigeración dañado, por riada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;4;;G;;32;;0:39;;15:23;;1;;Sistema de refrigeración dañado, por riada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;168;;9:56;;9:58;;1;;Contacto accidental ;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;169;;15:22;;15:22;;1;;No determinada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;170;;15:22;;16:15;;1;;No determinada;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;171;;17:58;;17:58;;1;;Condiciones climáticas;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;172;;17:58;;17:58;;1;;Condiciones climáticas;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;173;;17:58;;17:58;;1;;Condiciones climáticas;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;18;;CNR;;174;;17:58;;17:58;;1;;Desconexión de la línea VHE a CAT;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;15;;D;;175;;17:58;;17:58;;1;;Desconexión de la línea VHE a CAT;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;16;;D;;176;;17:58;;17:58;;1;;Desconexión de la línea VHE a CAT;;-;;nan
+25/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:8;;19:10;;1;;Demora en el arranque.;;-;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;129;;0:40;;0:55;;2;;Opera en carga base por reducción de generación en el Valle de Zongo;;nan;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;119;;0:40;;0:51;;2;;Opera en carga base por reducción de generación en el Valle de Zongo;;nan;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;30;;0:40;;0:49;;2;;Opera en carga base por reducción de generación en el Valle de Zongo;;nan;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;177;;6:46;;6:50;;2;;Opera en calidad de prueba con 5.0 MW, la reserva es llevada en CAH02.;;nan;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;178;;11:16;;16:42;;2;;Opera por ensayos para revisión y validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+25/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;179;;12:54;;12:58;;2;;Opera en calidad de prueba con 5.0 MW, la reserva es llevada en CAH02.;;nan;;nan
+25/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:11;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+25/1/2006;;REDESPACHO;;5;;G;;7;;10:6;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+25/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+25/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+25/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:20;;18:0;;2;;TDE realiza trabajos programados en el sistema de protecciones de S/E VHE.;;nan;;nan
+25/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:44;;16:58;;2;;TDE realiza trabajos programados en el sistema de protecciones de S/E CAT.;;nan;;nan
+25/1/2006;;OTROS EVENTOS;;6;;nan;;8;;15:0;;18:1;;2;;TDE realiza trabajos programados en sistema de comunicaciones en S/E ARO.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;157;;0:0;;17:5;;4;;Mantenimiento de auxiliares y filtros.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;4;;G;;180;;0:2;;2:46;;4;;Mantenimiento preventivo.;;nan;;nan
+26/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+26/1/2006;;FALLAS DURANTE LA OPERACIÓN;;12;;D;;181;;13:25;;14:45;;1;;Trabajos de emergencia en estructura de línea de M.T.;;-;;nan
+26/1/2006;;FALLAS DURANTE LA OPERACIÓN;;8;;D;;182;;15:15;;16:48;;1;;Línea de M.T suelta.;;-;;nan
+26/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;126;;19:23;;21:48;;1;;Falla a la partida.;;-;;nan
+26/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;40;;19:0;;19:1;;1;;Demora en el arranque.;;-;;nan
+26/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:6;;19:10;;1;;Demora en el arranque.;;-;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;178;;9:53;;12:19;;2;;Opera por pruebas de validación de Modelos de Reguladores de tensión y velocidad.;;nan;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;183;;10:17;;11:38;;2;;Opera en prueba con 15.0 MW, la reserva es llevada en GCH09 y GCH10.;;nan;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;10;;G;;184;;14:21;;16:34;;2;;Opera en calidad de prueba para levantamiento de la curva de capabilidad y verificación de los limitadores actuales y características operativas.;;nan;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;185;;15:19;;17:55;;2;;Opera por pruebas de validación de Modelos de Reguladores de tensión y velocidad.;;nan;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;183;;14:51;;16:30;;2;;Opera en calidad de prueba con 18.4 MW, la reserva es compensada en las unidades GCH09 y GCH10.;;nan;;nan
+26/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;183;;16:30;;17:5;;2;;Opera en calidad de prueba con 18.4 MW, la reserva es compensada en las unidades GCH09, BUL01 y BUL02.;;nan;;nan
+26/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+26/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:18;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+26/1/2006;;REDESPACHO;;5;;G;;7;;11:27;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+26/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+26/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+26/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:28;;17:20;;2;;TDE realiza trabajos programados en sistema de protecciones en S/E CAT.;;nan;;nan
+26/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:44;;17:40;;2;;TDE realiza trabajos programados en sistema de protecciones en S/E VHE.;;nan;;nan
+26/1/2006;;OTROS EVENTOS;;6;;nan;;8;;18:0;;18:45;;2;;Por descuido del CDC, unidades de C. BUL por debajo de su potencia óptima.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;94;;6:0;;6:33;;1;;Limpieza del intercambiador.;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;8:0;;0:0;;4;;Cambio de reguladores de tensión y velocidad;;nan;;nan
+27/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;18:59;;19:2;;1;;Demora en el arranque.;;-;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;186;;21:34;;21:37;;1;;Decargas atmosféricas;;-;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;187;;22:16;;22:23;;1;;Decargas atmosféricas;;-;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;188;;22:16;;22:23;;1;;Decargas atmosféricas;;-;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;24;;7:39;;11:10;;1;;Problemas en manguera de presión de la centralina.;;-;;nan
+27/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;28;;14:22;;15:10;;1;;Piedra en el canal de aducción.;;-;;nan
+27/1/2006;;REEMPLAZOS Y OTROS;;10;;G;;184;;10:15;;10:36;;2;;Opera en calidad de prueba con 7.0 MW, la reserva es llevada en C.COR.;;nan;;nan
+27/1/2006;;REDESPACHO;;4;;G;;6;;1:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+27/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:42;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+27/1/2006;;REDESPACHO;;5;;G;;7;;8:18;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+27/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;3:55;;4:8;;2;;Se presenta en el SIN variaciones de frecuencia (50.8 - 49.9 Hz), por lo que el CDC instruye a BUL01 y BUL02 incrementar generación de 30 MW a 33 MW por unidad, las variaciones se fueron amortiguando paulatinamente.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:52;;15:7;;2;;Desconexión de la línea Telamayu-Tatasi por apertura por protección del interruptor B491 en S/E TEL. TDE en coordinación con el CDC y COSEAL procede al cierre del interruptor B491 en S/E TEL.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;15:18;;17:42;;2;;Parada de la unidad SAI para proceder a la instalación de equipos de medición para la realización de pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;17:29;;17:36;;2;;Desconexión de la línea S/E SUD a Corque por apertura por protección del interruptor B237 en S/E SUD.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;21:41;;23:17;;2;;Se realizan en SAI pruebas de validación de modelos de reguladores de tensión y velocidad, a Hrs. 23:17 se efectua una prueba de rechazo de carga con 2.5 MW.;;nan;;nan
+27/1/2006;;OTROS EVENTOS;;6;;nan;;8;;23:48;;23:52;;2;;Se realizan en SAI pruebas de validación de modelos de reguladores de tensión y velocidad, a Hrs. 23:52 se efectua una prueba de rechazo de carga con 1.0 MW.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;0:0;;0:0;;4;;Cambio de reguladores de tensión y velocidad.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;107;;0:0;;0:0;;4;;nan;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;38;;8:0;;20:9;;1;;Restricciones en el suministro de gas.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;39;;8:0;;23:1;;1;;Restricciones en el suministro de gas.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;40;;8:0;;20:9;;1;;Restricciones en el suministro de gas.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;41;;8:0;;23:1;;1;;Restricciones en el suministro de gas.;;nan;;nan
+28/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;1;;6:30;;17:55;;4;;nan;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;3;;D;;189;;8:35;;8:49;;1;;Contacto de rama en línea de M.T.;;-;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;21;;16:50;;16:56;;1;;Descargas atmosféricas;;-;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;24;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;25;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;26;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;27;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;28;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;62;;16:50;;16:56;;1;;Desconexión línea PUH - PUN069;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;9;;G;;190;;20:26;;23:56;;1;;Falla mecánica.;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;38;;21:39;;21:43;;1;;Falla deflector de llama.;;nan;;nan
+28/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;38;;21:58;;22:5;;1;;Demora en el arranque.;;nan;;nan
+28/1/2006;;OPERACION CON POTENCIA LIMITADA;;1;;G;;17;;23:17;;23:23;;2;;Parada  bomba de Chiller.;;nan;;32.0
+28/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;117;;11:2;;13:57;;2;;Pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+28/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;120;;19:49;;20:25;;2;;En carga base por déficit de potencia en el SIN, por indisponibilidad de C. Valle Hermoso.;;nan;;nan
+28/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+28/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+28/1/2006;;REDESPACHO;;5;;G;;7;;9:0;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+28/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:3;;0:11;;2;;Se realizan en SAI pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;7:13;;12:53;;2;;Se efectuó corte de energía a la sala de control de CDC, por trabajos de remodelación del edificio de la TDE de acuerdo a Nota GOR-010-06.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:4;;8:7;;2;;COBEE en coordinación con el CDC, ELECTROPAZ, HB y TDE  para mejorar la confiabilidad del área Norte procede a la realización de maniobras de acuerdo a Solicitud de Operaciones Nº 1/2006.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:38;;11:13;;2;;El CDC no cuenta energía en monitores de supervición y control del operador, registrador de frecuencia, SCADA ISA, página web de COBEE y sala de servidores.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:42;;9:18;;2;;El CDC no cuenta con señales  de RTU´s de VIN y SAN por encontrarse las mismas inoperables.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:42;;11:3;;2;;El CDC no cuenta con señales  de RTU´s de KEN y MAZ por encontrarse las mismas inoperables.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:18;;11:1;;2;;Parada de la la unidad CUT05 para proceder a la instalación de equipos de medición para la realización de pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:45;;10:6;;2;;y 10:32 a 11:13, el CDC no cuenta con energía en la sala de control por falla en las UPS de la TDE.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;16:50;;16:56;;2;;Desconexión de la línea PUH - PUN069, que ocasiona una perturbación transitoria de tensión en el SIN que provoca la pérdida de carga en FANCESA de 7.5 MW y el disparo de KIL02, KIL03, LAN01,LAN03 y PUN con;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;17:15;;18:3;;2;;El CDC no cuenta con el sistema SCADA pantallas congeladas, lo que dificulta la supervisión de la operación del SIN.;;nan;;nan
+28/1/2006;;OTROS EVENTOS;;6;;nan;;8;;14:0;;17:0;;2;;Los datos de AQL fueron congelados con un valor fijo, lo que dificulta hacer un seguimiento de la demanda en el SIN.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;0:0;;0:0;;4;;Cambio de reguladores de tensión y velocidad;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;107;;0:0;;0:0;;4;;Mantenimiento de equipos auxiliares.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;54;;6:30;;10:52;;4;;Cambio de filtros de aire.;;nan;;nan
+29/1/2006;;INSTALACIONES EN MANTENIMIENTO;;1;;G;;1;;11:12;;16:42;;4;;Boroscopía semestral de turbina.;;nan;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;191;;16:0;;16:0;;1;;Descargas atmosféricas;;-;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;16;;16:34;;16:35;;1;;Descargas atmosféricas;;-;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;7;;T;;192;;22:2;;22:13;;1;;Descargas atmosféricas;;-;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;40;;19:15;;19:16;;1;;Retraso en el arranque;;nan;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;19:21;;19:29;;1;;Retraso en el arranque;;nan;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;12;;G;;193;;22:2;;22:50;;1;;Desconexión SAN-VIN230;;nan;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;11;;G;;25;;11:55;;12:7;;1;;Disparo por falla de válvula reguladora de velocidad.;;nan;;nan
+29/1/2006;;FALLAS DURANTE LA OPERACIÓN;;1;;G;;1;;16:42;;17:17;;1;;Extensión de mantenimiento;;nan;;nan
+29/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+29/1/2006;;REDESPACHO;;4;;G;;6;;22:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+29/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;2:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+29/1/2006;;REDESPACHO;;5;;G;;7;;10:0;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+29/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+29/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+29/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+29/1/2006;;OTROS EVENTOS;;6;;nan;;8;;6:44;;8:20;;2;;A Solicitud de COSEAL para la realización de trabajos de mantenimiento preventivo del ATTEL069, TDE en coordinación con el CDC procede a la apertura remota del interruptor B491 en S/E TEL.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;0:0;;0:0;;4;;Cambio de reguladores de tensión y velocidad.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;13;;G;;107;;0:0;;19:2;;1;;Extensión de mantenimiento.;;nan;;nan
+30/1/2006;;INSTALACIONES EN MANTENIMIENTO;;9;;G;;126;;8:0;;16:37;;4;;Mantenimiento de auxiliares y filtros.;;nan;;nan
+30/1/2006;;FALLAS DURANTE LA OPERACIÓN;;1;;G;;1;;1:4;;1:39;;1;;Disparo por descargas falla en el sistema gas-fuego.;;Si;;nan
+30/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;38;;11:17;;13:30;;1;;Disparo por falla de detector de llama.;;-;;nan
+30/1/2006;;FALLAS DURANTE LA OPERACIÓN;;13;;G;;41;;11:34;;11:36;;1;;Demora en el arranque.;;-;;nan
+30/1/2006;;FALLAS DURANTE LA OPERACIÓN;;1;;G;;1;;13:2;;15:24;;1;;Parada para habilitar sensor en el sistema gas-fuego.;;-;;nan
+30/1/2006;;FALLAS DURANTE LA OPERACIÓN;;1;;G;;1;;15:29;;15:58;;1;;Falla en el arranque;;nan;;nan
+30/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;30;;15:17;;15:57;;2;;Con 10% de reserva por falla en el arranque de BUL02;;nan;;nan
+30/1/2006;;REEMPLAZOS Y OTROS;;9;;G;;18;;15:17;;15:57;;2;;Con 10% de reserva por falla en el arranque de BUL02;;nan;;nan
+30/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;18;;15:20;;15:52;;2;;Con 10% de reserva por falla en el arranque de BUL02;;nan;;nan
+30/1/2006;;REEMPLAZOS Y OTROS;;1;;G;;17;;15:55;;15:58;;2;;En calidad de prueba con 10 MW, se lleva reserva en BUL01;;nan;;nan
+30/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;177;;21:15;;0:0;;2;;Pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+30/1/2006;;REDESPACHO;;4;;G;;6;;0:0;;13:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+30/1/2006;;REDESPACHO;;4;;G;;6;;18:0;;19:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+30/1/2006;;REDESPACHO;;4;;G;;6;;23:0;;0:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+30/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;1:30;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+30/1/2006;;REDESPACHO;;5;;G;;7;;9:38;;14:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+30/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayor disponibilidad de agua a la prevista.;;nan;;nan
+30/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+30/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;Señal errónea de potencia activa de la unidad LAN.;;nan;;nan
+30/1/2006;;OTROS EVENTOS;;6;;nan;;8;;8:46;;0:0;;2;;EGSA en coordinación con el CDC procede a la apertura del interruptor B641 correspondiente a la unidad GCH01 en S/E GCH.;;nan;;nan
+30/1/2006;;OTROS EVENTOS;;6;;nan;;8;;11:43;;11:54;;2;;TDE realiza trabajos programados en sistema de protecciones línea Catavi en S/E POT.;;nan;;nan
+30/1/2006;;OTROS EVENTOS;;6;;nan;;8;;13:57;;17:47;;2;;Se realizan en HAR01 pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;57;;0:0;;0:0;;1;;Material coluvial en presa.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;77;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;106;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;14;;G;;49;;0:0;;0:0;;1;;Inundación de Planta.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;10;;G;;91;;0:0;;0:0;;4;;Cambio de reguladores de tensión y velocidad.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;23;;0:0;;0:0;;4;;Mantenimiento anual.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;194;;7:6;;17:0;;4;;Mantenimiento equipos de patio.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;26;;7:8;;18:3;;1;;Trabajos de desarenado en el embalse el Angosto.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;28;;7:12;;18:3;;1;;Trabajos de desarenado en el embalse el Angosto.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;11;;G;;27;;7:12;;18:3;;1;;Trabajos de desarenado en el embalse el Angosto.;;nan;;nan
+31/1/2006;;INSTALACIONES EN MANTENIMIENTO;;7;;T;;194;;17:0;;17:40;;1;;Extensión de mantenimiento;;nan;;nan
+31/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;177;;0:0;;1:6;;2;;Pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+31/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;128;;8:55;;9:6;;2;;Pruebas de potencia efectiva (52 MW), la reserva es compensada en CAR02.;;nan;;nan
+31/1/2006;;REEMPLAZOS Y OTROS;;13;;G;;119;;9:9;;9:21;;2;;Pruebas de potencia efectiva (52 MW), la reserva es compensada en CAR01.;;nan;;nan
+31/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;179;;12:27;;17:48;;2;;Pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+31/1/2006;;REEMPLAZOS Y OTROS;;4;;G;;85;;22:7;;0:0;;2;;Pruebas de validación de modelos de reguladores de tensión y velocidad.;;nan;;nan
+31/1/2006;;REDESPACHO;;4;;G;;6;;3:0;;7:0;;2;;Mayor generación por concentración de reserva.;;nan;;nan
+31/1/2006;;REDESPACHO;;5;;G;;7;;0:0;;3:49;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+31/1/2006;;REDESPACHO;;5;;G;;7;;9:35;;12:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+31/1/2006;;REDESPACHO;;5;;G;;7;;23:0;;0:0;;2;;Mayores aportes laterales de agua a los previstos.;;nan;;nan
+31/1/2006;;OTROS EVENTOS;;6;;nan;;8;;0:0;;0:0;;2;;El CDC no cuenta con señales analógicas de las unidades GCH09 y GCH10 de Central GCH.;;nan;;nan
+31/1/2006;;OTROS EVENTOS;;6;;nan;;8;;9:25;;17:47;;2;;TDE realiza trabajos programados en sistema de protecciones en S/E TCH.;;nan;;nan
