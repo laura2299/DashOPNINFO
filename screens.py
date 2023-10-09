@@ -1944,12 +1944,6 @@ def Grafica_barras_embalses(tabla,columnas,filtro_datos,cadena):
     axes.set_ylabel('Sumatoria de tiempo')
     figure_canvas.get_tk_widget().pack(side=tk.TOP, fill=tk.BOTH, expand=1)   
 
-
-  
-
-
-
-
 ######################BOTON QUE LE PIDE QUE ELIja el tipo de grafica
 def tipo_grafica(container,columnas,tipos):
     for widget in container.winfo_children():
@@ -4627,7 +4621,7 @@ def decodificar_linea(linea, tipos, matriz):
         if tipos[i] == "VALORES_UNICOS":
             linea[i] = matriz[i][int(linea[i])]
         res+=linea[i]+","
-    return res[:-1]
+    return res[:-2]
 
 class Grafico(tk.Frame):
     def __init__(self, parent, controller):
@@ -4958,6 +4952,141 @@ def asignar_texto(c):
 
     #print(tabla_Elegida, lista_radio[c], lista_labels[c])
 
+def tiempoFormat_hms(entrada): 
+    a = ""
+    try: 
+        formato_hora = time.strptime(entrada, '%H:%M:%S') 
+        a = str(formato_hora.tm_hour) + ":" + str(formato_hora.tm_min)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def tiempoFormat_hm(entrada): 
+    a = ""
+    try: 
+        formato_hora = time.strptime(entrada, '%H:%M') 
+        a = str(formato_hora.tm_hour) + ":" + str(formato_hora.tm_min)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def tiempoFormat_f_hms(entrada): 
+    a = ""
+    try: 
+        formato_hora = time.strptime(entrada, '%Y-%m-%d %H:%M:%S') 
+        a = str(formato_hora.tm_hour) + ":" + str(formato_hora.tm_min)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def tiempoFormat_f2_hms(entrada): 
+    a = ""
+    try: 
+        formato_hora = time.strptime(entrada, '%Y/%m/%d %H:%M:%S') 
+        a = str(formato_hora.tm_hour) + ":" + str(formato_hora.tm_min)
+        return True, a 
+    except ValueError: 
+        return False, a 
+    
+def fechaFormat1(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%Y-%m-%d %H:%M:%S') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat2(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%Y/%m/%d %H:%M:%S') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat3(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%Y-%m-%d') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat4(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%Y/%m/%d') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat5(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%d-%m-%Y') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat6(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%d/%m/%Y') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat7(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%d-%m-%Y %H:%M:%S') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+
+def fechaFormat8(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%d/%m/%Y %H:%M:%S') 
+        a = str(formato_fecha.tm_mday) + "/" + str(formato_fecha.tm_mon) + "/" + str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+    
+def diaFormat(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%d') 
+        a = str(formato_fecha.tm_mday)
+        return True, a 
+    except ValueError: 
+        return False, a 
+    
+def mesFormat(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%m') 
+        a = str(formato_fecha.tm_mon) 
+        return True, a 
+    except ValueError: 
+        return False, a 
+    
+def añoFormat(entrada): 
+    a = ""
+    try: 
+        formato_fecha = time.strptime(entrada, '%Y') 
+        a = str(formato_fecha.tm_year)
+        return True, a 
+    except ValueError: 
+        return False, a 
+    
 def guardar_excel():
     dic_unicas=dict()
     dic_enlaces = dict()
@@ -4979,15 +5108,16 @@ def guardar_excel():
     
     c = 0
     lista_cache = listdir("Cache/Cache_Entrada")
-
-
-
+    lista_archivos_err = []
+    lista_ubi = []
+    sw_todos_bien = True
     for label in lista_labels:
         tabla = label.get()
         if tabla != "No se reconocio la tabla":
             nom = lista_cache[c]
             nom = nom[2:]
-            #print(nom)
+            ubi = tabla+"/"+nom
+            
             archivo = open("Ficheros/Tablas/"+tabla+"/"+nom,"w",encoding="utf-8")
             cache = open("Cache/Cache_Entrada/"+lista_cache[c], "r", encoding="utf-8")
             matriz_unico = dic_unicas[tabla]
@@ -5004,6 +5134,11 @@ def guardar_excel():
             else:
                 sw_horas = False
 
+            if "FLOAT" in tipos:
+                sw_float = True
+            else:
+                sw_float = False
+
             if "FECHA" in tipos or "AÑO" in tipos or "MES" in tipos or "DIA" in tipos:
                 sw_fecha_Rev = True
             else:
@@ -5015,18 +5150,27 @@ def guardar_excel():
             sw_año = False
             sw_mes = False
             mes = set()
+            sw_float_neg =False
             #print(tipos)
             #print(matriz_unico)
             #print("Enlaces sacar")
             #print(matriz_enlace)
-
+            sw_error_año = False
+            sw_error_mes = False
+            sw_error_dia = False
+            sw_error_fecha = False
+            sw_error_hora = False
+            sw_eliminar = False
+            casilla_error = ""
+            cont_linea = 0
             for linea in cache:
                 linea_aux = ""
                 linea=linea.strip("\n")
                 linea=linea.split(";;")
+                cont_linea += 1
                 #print(linea)
                 aux_col = 0
-                if sw_enlaces or sw_fecha_Rev or sw_horas:
+                if sw_enlaces or sw_fecha_Rev or sw_horas or sw_float:
                     enlaces_aux = []
                     #print(linea)
                     for casilla in linea:
@@ -5043,31 +5187,131 @@ def guardar_excel():
                             
                             linea_aux += (";;" + str(id_enlace))
                         elif tipo == "HORAS":
-                            #print(casilla, len(casilla))
-                            lon = len(casilla)
-                            if lon > 8:
-                                formato_hora = time.strptime(casilla, "%Y-%m-%d %X")
+                            sw_horita1, horita1 = tiempoFormat_hms(casilla)
+                            sw_horita2, horita2 = tiempoFormat_hm(casilla)
+                            sw_horita3, horita3 = tiempoFormat_f_hms(casilla)
+                            sw_horita4, horita4 = tiempoFormat_f2_hms(casilla)
+                            if sw_horita1:
+                                casilla = horita1
+                            elif sw_horita2:
+                                casilla = horita2
+                            elif sw_horita3:
+                                casilla = horita3
+                            elif sw_horita4:
+                                casilla = horita4
                             else:
-                                formato_hora = time.strptime(casilla, "%X")
-                            casilla = str(formato_hora.tm_hour) + ":" + str(formato_hora.tm_min)
+                                casilla_error=casilla
+                                sw_error_hora = True
                             linea_aux += (";;" + casilla) 
+                        elif tipo == "FLOAT":
+                            if float(casilla) < 0:
+                                casilla = 0
+                                sw_float_neg = True
+                            linea_aux += (";;" + str(casilla)) 
                         else:
                             if tipo == "FECHA":
-                                sw_fecha = True
+                                sw_fechita1, fechita1 = fechaFormat1(casilla)
+                                sw_fechita2, fechita2 = fechaFormat2(casilla)
+                                sw_fechita3, fechita3 = fechaFormat3(casilla)
+                                sw_fechita4, fechita4 = fechaFormat4(casilla)
+                                sw_fechita5, fechita5 = fechaFormat5(casilla)
+                                sw_fechita6, fechita6 = fechaFormat6(casilla)
+                                sw_fechita7, fechita7 = fechaFormat7(casilla)
+                                sw_fechita8, fechita8 = fechaFormat8(casilla)
                                 formato_fecha_mayor = time.strptime(fecha_mayor, "%d/%m/%Y")
                                 formato_fecha_menor = time.strptime(fecha_menor, "%d/%m/%Y")
-                                formato_fecha = time.strptime(casilla, "%Y-%m-%d %X")
-                                casilla = str(formato_fecha.tm_mday)+"/"+str(formato_fecha.tm_mon)+"/"+str(formato_fecha.tm_year)
-                                if formato_fecha_mayor < formato_fecha:
-                                    fecha_mayor = casilla
-                                if formato_fecha_menor > formato_fecha:
-                                    fecha_menor = casilla
+                                if sw_fechita1:
+                                    casilla = fechita1
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita1, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita2:
+                                    casilla = fechita2
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita2, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita3:
+                                    casilla = fechita3
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita3, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita4:
+                                    casilla = fechita4
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita4, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita5:
+                                    casilla = fechita5
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita5, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita6:
+                                    casilla = fechita6
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita6, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita7:
+                                    casilla = fechita7
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita7, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                elif sw_fechita8:
+                                    casilla = fechita8
+                                    sw_fecha = True
+                                    formato_fecha = time.strptime(fechita8, '%d/%m/%Y') 
+                                    if formato_fecha_mayor < formato_fecha:
+                                        fecha_mayor = casilla
+                                    if formato_fecha_menor > formato_fecha:
+                                        fecha_menor = casilla
+                                else:
+                                    casilla_error=casilla
+                                    sw_error_fecha = True
                             elif tipo == "AÑO":
+                                sw_añito1, añito1 = añoFormat(casilla)
+                                if sw_añito1:
+                                    casilla = añito1
+                                else:
+                                    casilla_error=casilla
+                                    sw_error_año = True
                                 sw_año = True
                                 año = casilla
                             elif tipo == "MES":
+                                sw_mesito1, mesito1 = mesFormat(casilla)
+                                if sw_mesito1:
+                                    casilla = mesito1
+                                else:
+                                    casilla_error=casilla
+                                    sw_error_mes = True
                                 sw_mes = True
                                 mes.add(casilla)
+                            elif tipo == "DIA":
+                                sw_diita1, diita1 = diaFormat(casilla)
+                                if sw_diita1:
+                                    casilla = diita1
+                                else:
+                                    casilla_error=casilla
+                                    sw_error_dia = True
                             linea_aux += (";;" + casilla) 
                         aux_col+=1
                     archivo.write(linea_aux[2:]+"\n")
@@ -5082,6 +5326,14 @@ def guardar_excel():
                 if enl not in matriz_enlace:
                     matriz_enlace.append(enl)
                 #print(matriz_enlace)
+
+                if sw_error_hora or sw_error_fecha or sw_error_año or sw_error_mes or sw_error_dia:
+                    sw_eliminar=True
+                    sw_todos_bien = False
+                    lista_ubi.append(ubi)
+                    messagebox.showinfo(message="Error en archivo:"+nom+",Formato no aceptado en linea:"+str(cont_linea)+" casilla:"+casilla_error, title="Error Cargar Excel")
+                    break
+
             archivo.close()
             cache.close()    
         c+=1
@@ -5091,60 +5343,64 @@ def guardar_excel():
         
         for enlace in dic_enlaces:
             escribir_enlaces_tabla(enlace, dic_enlaces[enlace])
-
-        if sw_fecha:
-            #print(fecha_mayor, fecha_menor)
-            ti_may = time.strptime(fecha_mayor, "%d/%m/%Y")
-            ti_men = time.strptime(fecha_menor, "%d/%m/%Y")
-            #print(ti_may, ti_men)
-            lista_tabla = listdir("Ficheros/Tablas/"+tabla+"/")
-            #print(lista_tabla)
-            año = str(ti_may.tm_year)
-            if año not in lista_tabla:
-                os.mkdir("Ficheros/Tablas/"+tabla+"/"+str(año)+"/")
-            nom_mes = ""
-            for kl in range(ti_men.tm_mon,ti_may.tm_mon):
-                nom_mes += str(kl) + ","
-            nom_mes += str(ti_may.tm_mon)
-            lista_mes = listdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
-            if nom_mes not in lista_mes:
-                os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
-            nom_fin = nombre_unico_txt_ubi(nom,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
-            os.rename("Ficheros/Tablas/"+tabla+"/"+nom,"Ficheros/Tablas/"+tabla+"/"+nom_fin)
-            shutil.move("Ficheros/Tablas/"+tabla+"/"+nom_fin,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
-        elif sw_año and sw_mes:
-            #print(año)
-            #print(mes)
-            lista_tabla = listdir("Ficheros/Tablas/"+tabla+"/")
-            #print(lista_tabla)
-            if año not in lista_tabla:
-                os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
-                #print("hecho")
-            mes = list(mes)
-            mes_Aux = []
-            for m in mes:
-                mes_Aux.append(int(m))
-            mes = mes_Aux
-            mes.sort()
-            nom_mes = ""
-            for kl in mes[:-1]:
-                nom_mes += str(kl) + ","
-            nom_mes += str(mes[-1])
-            #print(nom_mes)
-            lista_mes = listdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
-            if nom_mes not in lista_mes:
-                os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
-            nom_fin = nombre_unico_txt_ubi(nom,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
-            os.rename("Ficheros/Tablas/"+tabla+"/"+nom,"Ficheros/Tablas/"+tabla+"/"+nom_fin)
-            shutil.move("Ficheros/Tablas/"+tabla+"/"+nom_fin,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+        if sw_eliminar:
+            print(lista_ubi)
+            os.remove("Ficheros/Tablas/"+ubi)
         else:
-            print("No se encontro fecha o año y mes")
-    messagebox.showinfo(message="Excel Guardado con Exito", title="Guardado de Excel")
-    
-    #lista = listdir("Cache/Cache_Entrada")
-    #for cache in listdir("Cache/Cache_Entrada"):
-        #
-        #print(cache)
+            if sw_fecha:
+                #print(fecha_mayor, fecha_menor)
+                ti_may = time.strptime(fecha_mayor, "%d/%m/%Y")
+                ti_men = time.strptime(fecha_menor, "%d/%m/%Y")
+                #print(ti_may, ti_men)
+                lista_tabla = listdir("Ficheros/Tablas/"+tabla+"/")
+                #print(lista_tabla)
+                año = str(ti_may.tm_year)
+                if año not in lista_tabla:
+                    os.mkdir("Ficheros/Tablas/"+tabla+"/"+str(año)+"/")
+                nom_mes = ""
+                for kl in range(ti_men.tm_mon,ti_may.tm_mon):
+                    nom_mes += str(kl) + ","
+                nom_mes += str(ti_may.tm_mon)
+                lista_mes = listdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
+                if nom_mes not in lista_mes:
+                    os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+                nom_fin = nombre_unico_txt_ubi(nom,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+                os.rename("Ficheros/Tablas/"+tabla+"/"+nom,"Ficheros/Tablas/"+tabla+"/"+nom_fin)
+                shutil.move("Ficheros/Tablas/"+tabla+"/"+nom_fin,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+            elif sw_año and sw_mes:
+                #print(año)
+                #print(mes)
+                lista_tabla = listdir("Ficheros/Tablas/"+tabla+"/")
+                #print(lista_tabla)
+                if año not in lista_tabla:
+                    os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
+                    #print("hecho")
+                mes = list(mes)
+                mes_Aux = []
+                for m in mes:
+                    mes_Aux.append(int(m))
+                mes = mes_Aux
+                mes.sort()
+                nom_mes = ""
+                for kl in mes[:-1]:
+                    nom_mes += str(kl) + ","
+                nom_mes += str(mes[-1])
+                #print(nom_mes)
+                lista_mes = listdir("Ficheros/Tablas/"+tabla+"/"+año+"/")
+                if nom_mes not in lista_mes:
+                    os.mkdir("Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+                nom_fin = nombre_unico_txt_ubi(nom,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+                os.rename("Ficheros/Tablas/"+tabla+"/"+nom,"Ficheros/Tablas/"+tabla+"/"+nom_fin)
+                shutil.move("Ficheros/Tablas/"+tabla+"/"+nom_fin,"Ficheros/Tablas/"+tabla+"/"+año+"/"+nom_mes+"/")
+            else:
+                messagebox.showinfo(message="No se encontro fecha o año y mes", title="Error en el excel")
+            
+        if sw_float_neg:
+            messagebox.showinfo(message="Se encontraron valores negativos los cuales se les remplazo con cero", title="Modificacion de datos")
+    if sw_todos_bien:
+        messagebox.showinfo(message="Excel Guardado con Exito", title="Guardado de Excel")
+    else:
+        messagebox.showinfo(message="Excels sin Errores Guardados", title="Guardado de Excel")
 
 def exportar_filtros(tipos, columnas):
     global filtros_form_grafico
@@ -6144,22 +6400,27 @@ class Nuevo(tk.Frame):
             pady=5
         )  
         nombre= tk.StringVar()
-
         Frame2 = tk.Frame(self)
         Frame2.configure(background=style.PLOMO, height=200, width=400)
-
         l = tk.Label(Frame1, text="Nombre Tabla:").pack()
         en = tk.Entry(Frame1, textvariable=nombre).pack()
         columnas= tk.IntVar()
         l = tk.Label(Frame1, text="Cantidad de columnas:").pack()
         en = tk.Entry(Frame1, textvariable=columnas).pack()
         b = tk.Button(Frame1, text="Crear Tabla", command= lambda: crear_tabla(Frame2,nombre,columnas)).pack()
-        
+
+        tabla_eliminar= tk.StringVar()
+        l = tk.Label(Frame2, text="Tabla a eliminar:").pack()
+        en = tk.Entry(Frame2, textvariable=tabla_eliminar).pack()
+        b = tk.Button(Frame2, text="Eliminar Tabla", command= lambda: eliminar_tabla(tabla_eliminar)).pack()
         Frame2.pack()
+
+
 
 nuevas_columnas = []
 nuevos_tipos = []
 boton_columna = 0
+#Tabla de graficos si o si necesita fecha
 
 def columna_seleccionada(event):
     global nuevas_columnas, nuevos_tipos
@@ -6242,15 +6503,15 @@ def crear_columnas(nombre):
     if sw or sw1 or swCol:
         pass
     else:
-        print("Se puede crear")
+        #print("Se puede crear")
         tipo = "TEXTO"
         if swFloat:
             tipo = "GRAFICO"
-        #
-        # agregar_tabla(tipo,nombre)
-        #agregar_val_unicos(nombre)
-        #agregar_tipos_datos()
-        #agregar_tabla_a_tablas(nombre)
+        
+        agregar_tabla(tipo,nombre)
+        agregar_val_unicos(nombre)
+        agregar_tipos_datos()
+        agregar_tabla_a_tablas(nombre)
 
 def agregar_tabla(tipo, tabla):
     lug = ""
@@ -6262,7 +6523,7 @@ def agregar_tabla(tipo, tabla):
         for linea in archivo:
             linea=linea.strip("\n")
     with open("Ficheros/Datos_tablas/"+lug, mode="w",encoding="utf-8") as archivo:
-        archivo.write(linea+","+tabla+"\n")
+        archivo.write(linea+","+tabla)
     os.mkdir("Ficheros/Tablas/"+tabla)
     
 def agregar_val_unicos(tabla):
@@ -6309,7 +6570,6 @@ def agregar_tipos_datos():
             archivo.write(aux+"\n")
 
 def agregar_tabla_a_tablas(nombre):
-
     global nuevas_columnas, nuevos_tipos
     m = []
     with open("Ficheros/Datos_tablas/tablas.txt","r",encoding="utf-8") as archivo:
@@ -6332,3 +6592,49 @@ def agregar_tabla_a_tablas(nombre):
                 aux = aux+cas+ "," 
             aux+=linea[-1]
             archivo.write(aux+"\n")
+
+def eliminar_tabla(nombre):
+    nombre = nombre.get()
+    os.remove("Ficheros/Valores Unicos/"+nombre+".txt")
+    os.remove("Ficheros/Enlaces/"+nombre+".txt")
+    shutil.rmtree("Ficheros/Tablas/"+nombre)
+
+    m = []
+    col_aux=[]
+    with open("Ficheros/Datos_tablas/tablas.txt", mode="r", encoding="utf-8") as archivo:
+        for linea in archivo:
+            linea = linea.strip("\n")
+            l_aux=linea
+            linea = linea.split(",")
+            if linea[0] != nombre:
+                m.append(l_aux)
+    
+    with open("Ficheros/Datos_tablas/tablas.txt", mode="w", encoding="utf-8") as archivo:
+        for lin in m:
+            archivo.write(lin)
+
+    with open("Ficheros/Datos_tablas/TABLA_DE_TEXTO.txt", mode="r", encoding="utf-8") as archivo:
+        for linea in archivo:
+            linea = linea.strip("\n")
+            l_aux=linea.split(",")
+
+    l_e = ""
+    for tabla in l_aux:
+        if tabla != nombre:
+            l_e += tabla + ","
+    
+    with open("Ficheros/Datos_tablas/TABLA_DE_TEXTO.txt", mode="w") as archivo:
+        archivo.write(l_e[:-1])
+
+    with open("Ficheros/Datos_tablas/TABLAS_DE_GRAFICOS.txt", mode="r") as archivo:
+        for linea in archivo:
+            linea = linea.strip("\n")
+            l_aux=linea.split(",")
+
+    l_e = ""
+    for tabla in l_aux:
+        if tabla != nombre:
+            l_e += tabla + ","
+    
+    with open("Ficheros/Datos_tablas/TABLAS_DE_GRAFICOS.txt", mode="w") as archivo:
+        archivo.write(l_e[:-1])

@@ -20,11 +20,11 @@ class Manager(tk.Tk):
 
         self.frames = {}
 
-        for F in (Home,Grafico,Texto,Excel):
+        for F in (Home,Grafico,Texto,Excel,Nuevo):
             frame = F(container,self)
             self.frames[F] = frame
             frame.grid(row=0,column=0,sticky= tk.NSEW)
-        self.show_frame(Home)
+        self.show_frame(Nuevo)
             
 
     def show_frame(self, container):

@@ -1,9 +1,3 @@
-FECHA Inicio: 03/02/2023
-FECHA Fin: 29/09/2023
-DESCRIPCION: 
-EMPRESA: 
-CATEGORIA: 
-SISTEMA: 
-DE: 
-A: 
-TIPO: 
+alumno: 
+hora: 1
+nota1: Si
