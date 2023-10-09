@@ -1,4 +1,0 @@
-2023-08-01 00:00:00;;dsadsa;;dsad;;sad;;sad;;10:00:00;;11:00:00;;sdasd;;sad;;sda;;sad
-2023-08-01 00:00:00;;dsadsa;;aquí;;sad;;sad;;10:00:00;;11:00:00;;sdasd;;sad;;sda;;sad
-2023-08-01 00:00:00;;dsadsa;;dsad;;sad;;sad;;2000-10-02 10:00:00;;2000-10-02 10:00:00;;sdasd;;sad;;sda;;sad
-2023-08-01 00:00:00;;dsadsa;;dsad;;sad;;sad;;2000-10-02 10:00:00;;2000-10-02 10:00:00;;sdasd;;sad;;sda;;sad
